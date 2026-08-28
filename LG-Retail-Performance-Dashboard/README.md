@@ -85,11 +85,9 @@ Based on the dashboard analysis:
 
 ## 📁 Project Files
 
-| File                                   | Description                           |
-| -------------------------------------- | ------------------------------------- |
-| `Dashboard.png`                        | Preview of the Power BI dashboard     |
-| `LG-Retail-Performance-Report.pdf`     | Detailed insights and recommendations |
-| `LG-Retail-Performance-Dashboard.pbix` | Power BI dashboard file               |
+- 📊 [Power BI Dashboard](LG-Retail-Performance-Dashboard.pbix)
+- 📄 [Project Report](LG-Retail-Performance-Report.pdf)
+- 🖼️ [Dashboard Preview](Dashboard.png)
 
 ---
 
