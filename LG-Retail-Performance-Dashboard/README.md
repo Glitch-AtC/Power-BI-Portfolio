@@ -75,21 +75,12 @@ Based on the dashboard analysis:
 - Conduct regular retail audits to track display availability, competitive presence, sell-out and execution score over time.
 
 
-
-
-## 📷 Dashboard Preview
-
-![LG Retail Performance Dashboard](Dashboard.png)
-
----
-
 ## 📁 Project Files
 
 - 📊 [Power BI Dashboard](LG-Retail-Performance-Dashboard.pbix)
 - 📄 [Project Report](LG-Retail-Performance-Report.pdf)
 - 🖼️ [Dashboard Preview](Dashboard.png)
 
----
 
 ## 🎓 Project Context
 
@@ -100,7 +91,6 @@ Based on the dashboard analysis:
 
 The project provided practical exposure to **retail auditing, competitive benchmarking, store-level analysis, data visualization and business decision-making**.
 
----
 
 ## 👤 Author
 
